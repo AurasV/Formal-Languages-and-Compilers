@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 1\\Exercises\\Exercise 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA5BEDA-2B51-4A81-9BE1-4FF3DF985245}|Exercise 1.vcxproj|D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 1\\Exercises\\Exercise 1\\Exercise 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBA5BEDA-2B51-4A81-9BE1-4FF3DF985245}|Exercise 1.vcxproj|solutionrelative:Exercise 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise 1.c",
+              "DocumentMoniker": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 1\\Exercises\\Exercise 1\\Exercise 1.c",
+              "RelativeDocumentMoniker": "Exercise 1.c",
+              "ToolTip": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 1\\Exercises\\Exercise 1\\Exercise 1.c",
+              "RelativeToolTip": "Exercise 1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-29T07:26:36.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

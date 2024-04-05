@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E1419-6FFB-4C48-83BD-0A78464370C0}|Exercise 3.vcxproj|D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\Exercise 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6E1419-6FFB-4C48-83BD-0A78464370C0}|Exercise 3.vcxproj|solutionrelative:Exercise 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E1419-6FFB-4C48-83BD-0A78464370C0}|Exercise 3.vcxproj|D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\change.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD6E1419-6FFB-4C48-83BD-0A78464370C0}|Exercise 3.vcxproj|solutionrelative:change.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "change.txt",
+              "DocumentMoniker": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\change.txt",
+              "RelativeDocumentMoniker": "change.txt",
+              "ToolTip": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\change.txt",
+              "RelativeToolTip": "change.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-13T08:52:49.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise 3.c",
+              "DocumentMoniker": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\Exercise 3.c",
+              "RelativeDocumentMoniker": "Exercise 3.c",
+              "ToolTip": "D:\\Uni\\Year 2\\Me\\Semester 2\\FLC\\Lab 3\\Exercises\\Exercise 3\\Exercise 3.c",
+              "RelativeToolTip": "Exercise 3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-13T08:45:33.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

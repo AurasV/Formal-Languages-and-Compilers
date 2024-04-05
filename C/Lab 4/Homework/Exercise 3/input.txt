@@ -1,0 +1,14 @@
+//this is some code comments
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a = 0; //a is an int
+    cout<<a;
+}
+
+/*
+multi line
+comment
+*/
