@@ -1,0 +1,7 @@
+1. Create a 5x5 matrix with row values ranging from 0 to 100, using numpy.
+2. Sort each row of the array created in ex1 in ascending order.
+3. Find the second-largest value in each column for the arrat created in ex1.
+4. Count the number of occurrences of each unique value in a 1D array.
+5. Create two 1D matrices using numpy and populate them with random values.
+Use matplotlib to plot the values. You can use any chart type you wish. Add
+labels, title and custom color.

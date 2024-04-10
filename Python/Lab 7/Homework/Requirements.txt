@@ -1,0 +1,7 @@
+1. Using arparse, create a parser which takes as input a string which defines a
+path and a name of a text file. Verify if the file exist, if not create one. The
+created file should not be empty, thus add a few lines of text in it when you
+create it.
+2. Write a program in Python which creates an HTML file with a table constructed
+using the data from the ID, FirstName, LastName, Email, Age columns of the
+Lab7.csv file. Use a stripped-colored background for the table rows.

@@ -1,0 +1,13 @@
+1. Write a Python class to convert an integer to a Roman numeral.
+2. Write a Python class to convert a Roman numeral to an integer.
+3. Write a Python class to find a pair of elements (indices of the two numbers) from a
+given array whose sum equals a specific target number.
+4. Write a Python class to find the three elements that sum to zero from a set of n
+real numbers.
+5. Write a Python program to create Fibonacci series up to n using Lambda
+6. Write a Python program to find the intersection of two given arrays using Lambda
+7. Write a Python a function to find the union and intersection of two lists
+8. Write a Python function to remove duplicates from a list while preserving the
+order.
+9. Print the name of the operating system. List the files and directories in the
+current directory.
