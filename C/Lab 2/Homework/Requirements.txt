@@ -1,0 +1,7 @@
+1. Use pointers to write a program that displays the elements of an array that was
+constructed using user input.
+2. Write a program using functions that displays all perfect numbers (perfect
+number = positive integer that is equal to the sum of its proper divisors) inside
+an interval. (e.g., for the interval 0-50, the perfect numbers are 6 and 28)
+3. Compute Fibonacci series using recursion. The number should be user inputted.
+4. Compute factorial using recursion. The number should be user inputted.

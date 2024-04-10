@@ -1,0 +1,6 @@
+Exercise
+Add multiplication and division to the exercise done in lab.
+
+Homework
+Add m^n to the exercise done in lab.
+Add mathemical parenthesis “(“, “)” to the exercise done in lab.

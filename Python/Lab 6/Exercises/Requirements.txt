@@ -1,0 +1,16 @@
+1. Write a program that displays the current date and time with the
+complete name of the month. (Hint: use datetime.now())
+2. Shuffle the elements from a given list. (Hint: use random.shuffle())
+3. Use the math module to compute the factorial of a number inputted by
+the user.
+4. Write a program that displays the week number of a date. (Hint: use
+isocalendar())
+5. Create a list populated with 5 random numbers (Hint: use randint())
+6. Write a program that displays the date that was 10days before the
+current date.
+7. Write a Python function to check if a list is a palindrome or not. Return
+true otherwise false.
+8. Write a Python program to sort a given dictionary by key. (Hint: use
+sorted())
+9. Write a Python program to convert degrees to radians
+(radians=degree*pi/180) and vice-versa (degree=radians*180/pi).

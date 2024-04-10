@@ -1,0 +1,9 @@
+1. Search if an element is in an array. (e.g., arr[]={1,2,3,4,5} x=5 x is in arr)
+2. Add two 2D arrays. (e.g., arr[2][2] ={{1,2},{3,4}} arr2[2][2] ={{5,6},{7,8}}
+sum[2][2]={{5,8},{10,12}}
+3. Check if two 2D arrays are equal.(e.g., arr[2][2] ={{1,2},{3,4}} arr2[2][2]
+={{1,2},{3,4}} are equal)
+4. Find the length of a string. (e.g., char str[]=“Hello” length=5)
+5. Search for the word FILS and display its index in the following array: char ex[]
+= “FILS is part of UPB. I am a student at FILS. Welcome!”
+6. Check if a string is a palindrome.

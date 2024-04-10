@@ -1,0 +1,5 @@
+1. Run example.l
+2. Create a FLEX program which recognizes if a given letter is a vowel
+3. Create a FLEX program which recognizes if a word is a pronoun
+4. Extend exercise 3 by making it recognize also verbs, adjectives, nouns,
+prepositions (at least 10 of each) and digits (0-9).
