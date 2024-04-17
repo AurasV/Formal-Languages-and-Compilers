@@ -1,0 +1,7 @@
+1. Create a FLEX program which verifies if the string inputted by the user has
+the date format DD/MM/YYYY
+2. Create a flex file which recognizes if a given string is an email address.
+3. Create a FLEX program which deletes comments in an IDE of your choice
+(e.g., in VSC single-line comments start with // and multi-line comments are
+between /* */, in Spyder, a single-line comment start with # and multi-line
+comments are between ’’’). Please specify in a comment for which one

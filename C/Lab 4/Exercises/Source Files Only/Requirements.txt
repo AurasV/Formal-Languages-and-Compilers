@@ -1,0 +1,4 @@
+1. Create a FLEX program which verifies if the string inputted by the user is a
+valid URL
+2. Create a FLEX program which adds numbers to each line in a txt file
+3. Create a FLEX program which replaces a word with another one in a file

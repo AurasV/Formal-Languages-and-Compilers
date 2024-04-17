@@ -1,0 +1,7 @@
+1. Check if a year is a leap year. (leap years are divisible by 4 and not divisible
+by 100 or divisible by 400)
+2. Using switch, find if a number is positive, negative or 0.
+3. Find the sum of all the odd numbers between 0 and 20.
+4. Print the number of digits in an integer (e.g., x=123456, no_digits=6)
+5. Find the sum of all elements in an array (e.g., arr[]={1,2,3,4,5} sum=15)
+6. Find the maximum between 3numbers.
