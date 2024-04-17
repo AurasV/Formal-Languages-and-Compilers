@@ -1,0 +1,21 @@
+1. a=“rectangle”, b=“square”, c=“sphere”, d=“triangle”, e=“cone”, f=“cube”, g=“cylinder”.
+Using compile(), print only the strings that start with either c or s and end with e.
+2. l8=“rectangle square sphere triangle cone cube cylinder”. Print all the words ending in “le”
+or “re”.
+3. Write a function that replaces all a in a string with u and all i with e. (hint: you can use
+replace() or sub() )
+4. Write a function that matches only text that starts with m, ends with n and have exactly 3
+characters between them. Provide at least two examples when calling the function (1 right
+and 1 wrong)
+5. Write a function that matches only text that starts with h and is followed by exactly 2 or 3 i.
+Provide at least two examples when calling the function (1 right and 1 wrong)
+6. Write a function that matches words containing q, but not in the beginning or at the end of a
+word. Provide at least two examples when calling the function (1 right and 1 wrong)
+7. Create a program that changes the format of a date from YY-MM-DD to DD-MM-YY and
+changes the month from a number to its name. (e.g., 21-12-01 will be 01-December-21).
+Provide at least one example.
+8. Write a function that checks if a string contains only lowercase letters, digits and *. Provide
+at least two examples (one right and one wrong).
+9. Write a function that checks if a string has the following pattern: word containing only
+uppercase letters _ word containing only lowercase letters (e.g., FILS_student). Provide at
+least two examples (one right and one wrong).

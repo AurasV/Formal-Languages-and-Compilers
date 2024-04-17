@@ -1,0 +1,13 @@
+1. In HW8Ex1.html:
+    a) Find and display the links (https://www.google.com/)
+    b) Find and display the labels of the form (Last name, First name)
+    c) Find and display the types of the attributes in the form (text, number, email)
+    d) Find and display the values of the options in the form (PhD Student, Professor)
+    e) Find and display all the ids in the form (lname, fname)
+2. Create an excel file from HW8Ex2.txt (The columns should be LastName,
+FirstName, HiringDate, Salary)
+3. Create a regex to check if HTML tags are correctly written. Give at least 6
+different examples (5 should be with different inconsistencies such as <p, p>,
+<id=“>, “<p>”, <p/>)
+4. Create a regex with at least two groups (like in the example from slide 17). Print
+all the matches in a string and all the matches in every group.
