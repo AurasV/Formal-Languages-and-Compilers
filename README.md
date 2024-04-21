@@ -1,5 +1,5 @@
-# Formal Languages and Compilers Exercises and Homeworks
-Pretty Simple Stuff IMO
+# Formal Languages and Compilers 
+Formal Languages and Compilers Exercises and Homeworks
 
 # Format
 Format for the organization is like this
