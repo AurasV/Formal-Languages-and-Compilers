@@ -1,0 +1,11 @@
+- Use http://books.toscrape.com/
+- Extract "Books to Scrape We love being scraped!" -> Title
+- Extract "Page 1 of 50" -> Page number
+- Extract the content of the button tag
+- Use the name of the class (product_pod) in order to extract the products title
+and price
+    ➢ Create a regular expression in order to get the title from it.
+    ➢ Create a regular expression in order to get the price from it.
+- Extract all the book categories (hint: find all class, iterate through the result
+and find li)
+- Extract the content of img alt=“” (hint: find all img, regex for alt content)
