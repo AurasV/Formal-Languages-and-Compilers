@@ -1,0 +1,5 @@
+    1. Create a DFA in Python that checks if a word belongs to a language where the
+words are composed only by 1s (1+). Provide at least 2 examples
+    2. Create a DFA in Python that checks if a word belongs to a language where the
+words start with an even numbers of 0s followed by at least one 1 ((00)+1+).
+Provide at least 2 examples
