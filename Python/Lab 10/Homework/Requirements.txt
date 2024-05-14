@@ -1,0 +1,5 @@
+ 1. Create a DFA in Python that checks if a word belongs to a language of words
+that either start or end with ab. (e.g. abaa,aabab are ok, aabba, aabb are not
+ok). Provide at least 2 examples.
+ 2. Create a DFA in Python that checks if a word belongs to a language of words
+that start and end with the same letter. Provide at least 2 examples.

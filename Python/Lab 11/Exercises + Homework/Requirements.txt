@@ -1,0 +1,7 @@
+Exercises
+- Add multiplication and division
+- Add mathematical parenthesis
+
+Homework
+- Add power (n^m)
+- Add factorial (n!)
