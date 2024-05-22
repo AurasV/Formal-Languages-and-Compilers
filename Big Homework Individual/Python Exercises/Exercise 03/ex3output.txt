@@ -1,0 +1,7 @@
+http://example.com
+https://www.example.com
+https://another-example.org
+http://www.example.com
+https://example.com/index.html
+http://subdomain.example.com/path/to/resource
+https://www.example.co.uk
