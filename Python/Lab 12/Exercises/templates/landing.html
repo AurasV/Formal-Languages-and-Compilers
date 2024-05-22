@@ -1,0 +1,35 @@
+<html>
+    <body>
+    <h1>Landing page</h1>
+    <h2>All records</h2>
+    {% for i in holder %}
+        <ul>
+            {% for key, value in i.items() %}
+                <li>{{ key }}: {{ value }}</li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+    <h2>Add record</h2>
+    <form name="postData" method="POST" action="{{ url_for('postData') }}">
+        <p><input type="text" name="bandName" placeholder="Band name" /></p>
+        <p><input type="text" name="genre" placeholder="Genre" /></p>
+        <p><input type="text" name="album" placeholder="Album" /></p>
+        <p><button type="submit">Add record</button></p>
+    </form>
+
+    <h2>Delete record</h2>
+    <form name="deleteData" method="POST" action="{{ url_for('deleteData') }}">
+        <p><input type="text" name="bandNameDelete" placeholder="Band name" /></p>
+        <p><button type="submit">Delete record</button></p>
+    </form>
+
+
+    <h2>Update record</h2>
+    <form name="updateData" method="POST" action="{{ url_for('updateData') }}">
+        <p><input type="text" name="bandNameUpdate" placeholder="Band name" /></p>
+        <p><input type="text" name="bandNameUpdated" placeholder="Updated band name" /></p>
+        <p><button type="submit">Update record</button></p>
+    </form>
+    <body>
+</html>
